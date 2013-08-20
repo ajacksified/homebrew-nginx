@@ -4,7 +4,7 @@ class Openresty < Formula
 
   homepage 'http://openresty.org'
   url 'http://openresty.org/download/ngx_openresty-1.4.2.1.tar.gz'
-  sha1 '4b47862a77577d06447d17c935e94dc935c279e5'
+  sha1 'd5e794eacbd26fa05cb5bcdf748a2e87a80cb12b'
   version '1.4.2.1'
 
   depends_on "luajit"
