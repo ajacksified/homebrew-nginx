@@ -3,9 +3,9 @@ require 'formula'
 class Openresty < Formula
 
   homepage 'http://openresty.org'
-  url 'http://openresty.org/download/ngx_openresty-1.2.8.6.tar.gz'
+  url 'http://openresty.org/download/ngx_openresty-1.4.2.1.tar.gz'
   sha1 '4b47862a77577d06447d17c935e94dc935c279e5'
-  version '1.2.8.6'
+  version '1.4.2.1'
 
   depends_on "luajit"
   depends_on "pcre"
